@@ -1,0 +1,1 @@
+This is the contents of myfile.txt. Not much here, just a couple of sentences.
